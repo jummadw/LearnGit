@@ -1,1 +1,6 @@
 from . models import prisce
+
+
+test code
+
+now added githup configration
